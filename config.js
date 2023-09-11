@@ -1,2 +1,2 @@
 console.log("cofig js");
-console.log("v3");
+console.log("v1");
