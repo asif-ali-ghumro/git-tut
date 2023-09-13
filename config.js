@@ -1,2 +1,2 @@
 console.log("cofig js");
-console.log("v11 ethu");
+console.log("v12 ");
